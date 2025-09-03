@@ -34,12 +34,9 @@ Check it out here: [BharathPadavu/currency-converter-app](https://BharathPadavu.
 - ✅ Validates input amount, defaulting to `1` if empty or invalid  
 
 **API 🌐:**  
-- Uses [`https://api.budjet.org/fiat`](https://api.budjet.org/fiat) to fetch **real-time conversion rates**  
-- Example endpoint:
-
-https://api.budjet.org/fiat/USD/INR
-
-- Extracts `conversion_rate` from JSON to calculate converted amount 💰  
+- Fetches **real-time conversion rates** using a public endpoint  
+- Example endpoint: https://api.budjet.org/fiat/USD/INR
+- Extracts `conversion_rate` from the JSON response to calculate the converted amount 💰    
 
 **Event Handling ⚡:**  
 - 🔄 Listens for `change` events on dropdowns → **update country flag**  
