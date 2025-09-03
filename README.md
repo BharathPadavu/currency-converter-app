@@ -1,5 +1,3 @@
-Absolutely! Here’s a more visually attractive version of your README.md with emoji, badges, and symbols to make it stand out on GitHub. I’ve added tech badges, live demo, and decorative symbols:
-
 # 💱 Currency Converter App 🌍
 
 ![Screenshot](./screenshot.png)
