@@ -56,31 +56,21 @@ Check it out here: [BharathPadavu/currency-converter-app](https://BharathPadavu.
 
 ---
 
-🔧 Usage 🖱️
+## 🔧 Usage 🖱️
 
-Default from currency: USD
-
-Default to currency: INR
-
-Flags update automatically with selection 🏴
-
-Defaults to 1 if input is empty 🔢
+- 💵 **Default "From" currency:** USD  
+- 💴 **Default "To" currency:** INR  
+- 🏳️ **Flags update automatically** when you change the selection  
+- 🔢 **Defaults to 1** if the input is empty  
 
 ---
 
-📌 Author 👨‍💻
+## 📌 Author 👨‍💻
 
-Bharath Padavu
-
-GitHub: @BharathPadavu
-
-Project: currency-converter-app
+**Bharath Padavu**  
+- GitHub: [@BharathPadavu](https://github.com/BharathPadavu)  
+- Project: [currency-converter-app](https://BharathPadavu.github.io/currency-converter-app/)  
 
 ---
 
-✨ Enjoy converting world currencies instantly! 💸🌏✨
-
----
-
-
-
+### ✨ Happy Converting! 💸🌏💫
