@@ -56,26 +56,6 @@ Check it out here: [BharathPadavu/currency-converter-app](https://BharathPadavu.
 
 ---
 
-## 🛠 Installation 🏗️
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/BharathPadavu/currency-converter-app.git
-
-2. Open index.html in your browser
-
-
-3. Enter the amount and select from/to currencies
-
-
-4. Click Get Exchange Rate to see results instantly ✅
-
-
-
-
----
-
 🔧 Usage 🖱️
 
 Default from currency: USD
@@ -86,35 +66,6 @@ Flags update automatically with selection 🏴
 
 Defaults to 1 if input is empty 🔢
 
-
-
----
-
-📦 File Structure 📁
-
-currency-converter-app/
-├── index.html
-├── style.css
-├── app.js
-├── codes.js
-├── screenshot.png
-└── README.md
-
-
----
-
-🤝 Contributing 💡
-
-Feel free to fork the repository and submit PRs to improve:
-
-🎨 UI/UX design
-
-➕ Adding more currencies
-
-⚙️ Handling API errors gracefully
-
-
-
 ---
 
 📌 Author 👨‍💻
@@ -124,8 +75,6 @@ Bharath Padavu
 GitHub: @BharathPadavu
 
 Project: currency-converter-app
-
-
 
 ---
 
