@@ -70,5 +70,3 @@ Check it out here: [BharathPadavu/currency-converter-app](https://BharathPadavu.
 - Project: [currency-converter-app](https://BharathPadavu.github.io/currency-converter-app/)  
 
 ---
-
-### ✨ Happy Converting! 💸🌏💫
